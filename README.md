@@ -2,9 +2,11 @@
 
 Aplikasi mobile interaktif **GreenStep SDGs** dikembangkan menggunakan framework Flutter untuk memenuhi tugas praktikum pemrograman mobile. Aplikasi ini mengangkat studi kasus *Sustainable Development Goals* (SDGs) dengan fokus khusus pada isu lingkungan dan energi terbarukan.
 
+
 **Anggota Kelompok 9**
- Nama: Abdul Muthalif Muis (NIM: 202431136)
- Nama Anggota Lain: ADAM FATURRAHMAN (NIM: 202331042)
+* Nama: Abdul Muthalif Muis (NIM: 202431136)
+* Nama Anggota Lain: ADAM FATURRAHMAN (NIM: 202331042)
+
 
  Fitur Utama & Interaksi Gesture
 Sesuai dengan ketentuan tugas untuk NIM kelompok, aplikasi ini menerapkan berbagai gestur interaktif dan struktur layout modern:
